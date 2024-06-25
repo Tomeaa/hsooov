@@ -41,7 +41,7 @@ def Tele(P):
 
 dollar=50
 GROUP_ID = ['#']
-token = '5315520548:AAGKnyS1SwJMCRZz1ZxT1AchdgkBnXR5dKs'
+token = '5143552120:AAE_Bwy7oVbv7B6cTItJo7ksXBKEuo_oHdg'
 bot=telebot.TeleBot(token,parse_mode="HTML")
 subscriber = 6707467876
 
